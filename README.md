@@ -26,7 +26,7 @@
         <li><a href="#prerequisites">Prerrequisitos</a></li>
         
       
-    </li>
+ 
     
     <li><a href="#contact">Contacto</a></li>
    </ul>
