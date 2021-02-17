@@ -24,11 +24,7 @@
       <a href="#getting-started">Para comenzar</a>
       <ul>
         <li><a href="#prerequisites">Prerrequisitos</a></li>
-        
-      
- 
-    
-    <li><a href="#contact">Contacto</a></li>
+        <li><a href="#contact">Contacto</a></li>
    </ul>
   </ol>
 </details>
