@@ -25,11 +25,11 @@
       <ul>
         <li><a href="#prerequisites">Prerrequisitos</a></li>
         
-      </ul>
+      
     </li>
     
     <li><a href="#contact">Contacto</a></li>
-   
+   </ul>
   </ol>
 </details>
 
